@@ -1,5 +1,5 @@
 # TP2-Frontend Bootstrap
-Fueron colocadas dos paginas en el repositorio: Una realizada sin bootstrap y otra utilizandolo
+Fueron colocadas dos paginas en el repositorio: Una realizada sin bootstrap y otra haciendo uso de esta herramienta.
 
 # Página con Bootstrap
 Pasos para ejecutarla:
