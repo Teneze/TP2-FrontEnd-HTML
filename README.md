@@ -1,4 +1,4 @@
-# TP2-Frontend Bootstrap
+# Trabajo Practico - Front End Bootstrap
 Fueron colocadas dos paginas en el repositorio: Una realizada sin bootstrap y otra haciendo uso de esta herramienta.
 
 ## Página con Bootstrap
